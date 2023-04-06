@@ -1,1 +1,1 @@
-JNU Lecture Processing# DigitalImageProcessing
+JNU Lecture Work Collection
