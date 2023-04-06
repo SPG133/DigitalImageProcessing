@@ -1,1 +1,1 @@
-# DigitalImageProcessing
+JNU Lecture Processing# DigitalImageProcessing
