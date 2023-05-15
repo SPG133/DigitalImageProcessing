@@ -18,13 +18,16 @@
     <ClInclude Include="cvui.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="basicchange.h">
+    <ClInclude Include="RegionGrowing.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Gaussian.h">
+    <ClInclude Include="Roberts.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="intension.h">
+    <ClInclude Include="OTSU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FaceDetect.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,13 +38,16 @@
     <ClCompile Include="open.c">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="basicchange.cpp">
+    <ClCompile Include="RegionGrowing.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Gaussian.cpp">
+    <ClCompile Include="Roberts.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="intension.cpp">
+    <ClCompile Include="OTSU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FaceDetect.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

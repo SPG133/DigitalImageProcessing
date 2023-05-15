@@ -24,6 +24,7 @@
     <ProjectGuid>{1c86ca32-dcf6-48e7-a6a2-ae73f41c5bdf}</ProjectGuid>
     <RootNamespace>第一次图像处理作业</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>第二次图像处理作业</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -116,7 +117,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>false</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;NOMINMAX;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -142,17 +143,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="basicchange.h" />
     <ClInclude Include="cvui.h" />
-    <ClInclude Include="Gaussian.h" />
-    <ClInclude Include="intension.h" />
+    <ClInclude Include="FaceDetect.h" />
+    <ClInclude Include="OTSU.h" />
+    <ClInclude Include="RegionGrowing.h" />
+    <ClInclude Include="Roberts.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basicchange.cpp" />
-    <ClCompile Include="Gaussian.cpp" />
-    <ClCompile Include="intension.cpp" />
+    <ClCompile Include="FaceDetect.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="open.c" />
+    <ClCompile Include="OTSU.cpp" />
+    <ClCompile Include="RegionGrowing.cpp" />
+    <ClCompile Include="Roberts.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\cat.bmp" />
