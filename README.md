@@ -1,1 +1,0 @@
-JNU Lecture Work Collection VOL.02
