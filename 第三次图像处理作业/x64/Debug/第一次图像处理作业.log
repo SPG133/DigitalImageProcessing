@@ -1,0 +1,38 @@
+﻿  basicchange.cpp
+C:\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\basicchange.cpp(15,58): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\basicchange.cpp(15,34): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  Gaussian.cpp
+C:\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\Gaussian.cpp(20,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  intension.cpp
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\intension.cpp(20,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\intension.cpp(36,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\intension.cpp(91,46): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\intension.cpp(92,46): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\第一次图像处理作业\intension.cpp(93,46): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  main.cpp
+  cvui.h: compiling implementation because of CVUI_IMPLEMENTATION. See: https://dovyski.github.io/cvui/usage/
+  正在生成代码...
+  open.c
+  第一次图像处理作业.vcxproj -> C:\Users\S\Desktop\1191210224茆荣杰\第一次图像处理作业\DigitalImageProcessing\x64\Debug\第一次图像处理作业.exe
