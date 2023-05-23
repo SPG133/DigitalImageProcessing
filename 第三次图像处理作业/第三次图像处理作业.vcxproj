@@ -78,8 +78,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\opencv\build\include\opencv2;C:\opencv\build\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\opencv\build\x64\vc16\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\Environment\opencv\build\include\opencv2;E:\Environment\opencv\build\include;</IncludePath>
+    <LibraryPath>E:\Environment\opencv\build\x64\vc16\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
@@ -144,11 +144,13 @@
   <ItemGroup>
     <ClInclude Include="cvui.h" />
     <ClInclude Include="RGBToHSI.h" />
+    <ClInclude Include="Stitch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="open.c" />
     <ClCompile Include="RGBToHSI.cpp" />
+    <ClCompile Include="Stitch.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\cat.bmp" />

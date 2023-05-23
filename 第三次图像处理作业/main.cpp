@@ -7,6 +7,7 @@ using namespace std;
 #include<chrono>
 #include<windows.h>
 #include"open.c"
+#include"Stitch.h"
 #include"RGBToHSI.h"
 using namespace cv;
 #define WINDOW_NAME "¼òÒ×Í¼Ïñ´¦Àí"
@@ -130,6 +131,12 @@ int main()
                     //return -1;
                 }
                 afterimg = pano;
+                afterimaged = 1;
+                cvui::imshow("new window",afterimg );
+            }
+            if (cvui::button(frame, 280, 70, "ORB"))
+            {
+                afterimg=ORB222(imgs[0],imgs[1]);
                 afterimaged = 1;
                 cvui::imshow("new window",afterimg );
             }

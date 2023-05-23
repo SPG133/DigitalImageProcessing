@@ -7,7 +7,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19873b95-dafd-4dca-adf0-3cf755976885" name="Changes" comment="First Commit" />
+    <list default="true" id="19873b95-dafd-4dca-adf0-3cf755976885" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/Stitch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/Stitch.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/trans1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/Stitch.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.第一次图像处理作业/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.第一次图像处理作业/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/第三次图像处理作业.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/第三次图像处理作业.vcxproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,28 +45,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\S\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\S\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\S\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\S\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\S\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\S\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="第一次图像处理作业" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -153,6 +173,7 @@
       <workItem from="1684642973625" duration="3083000" />
       <workItem from="1684646128213" duration="8027000" />
       <workItem from="1684679797042" duration="514000" />
+      <workItem from="1684836243182" duration="21910000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1684679868903</created>
