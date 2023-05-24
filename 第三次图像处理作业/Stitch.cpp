@@ -79,8 +79,8 @@ Mat ORB222(Mat imageRight, Mat imageLeft)
     cvtColor(imageLeft, image_l, COLOR_BGR2GRAY);
  
     //直接从可能重复的区域提取特征点匹配 当前是左右图在拼接处大概有1/3是重复的
-    Rect rect_right = Rect(0, 0, imageRight.cols / 3, imageRight.rows);
-    Rect rect_left = Rect(2*imageLeft.cols/3, 0, (imageLeft.cols/3) -1 , imageLeft.rows);
+    Rect rect_right = Rect(0, 0, imageRight.cols, imageRight.rows);
+    Rect rect_left = Rect(0, 0, (imageLeft.cols) -1 , imageLeft.rows);
  
     Mat image_r_rect = imageRight(Rect(rect_right));
     Mat image_l_rect = imageLeft(Rect(rect_left));
@@ -190,10 +190,10 @@ Mat ORB222(Mat imageRight, Mat imageLeft)
     cout<<"dwaedw";
     imageLeft.copyTo(dst(Rect(0, 0, imageLeft.cols, imageLeft.rows)));
     cout<<"dwaedw";
-    //OptimizeSeam(imageLeft, imageTransform1, dst,corners);
+    OptimizeSeam(imageLeft, imageTransform1, dst,corners);
  
     //imshow("dstOptimize", dst);
-    //imwrite("dst.jpg", dst);
+    imwrite("dst.jpg", dst);
 
     return dst;
 

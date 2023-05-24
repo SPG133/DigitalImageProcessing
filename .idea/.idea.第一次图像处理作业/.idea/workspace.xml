@@ -8,25 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19873b95-dafd-4dca-adf0-3cf755976885" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/Stitch.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/Stitch.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/trans1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/Stitch.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三次图像处理作业/dst.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.第一次图像处理作业/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.第一次图像处理作业/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/第三次图像处理作业.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/Stitch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/Stitch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/Stitch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/Stitch.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.idb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/vc142.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.command.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/x64/Debug/第三次图像处理作业.tlog/link.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三次图像处理作业/第三次图像处理作业.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/第三次图像处理作业/第三次图像处理作业.vcxproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +165,7 @@
       <workItem from="1684646128213" duration="8027000" />
       <workItem from="1684679797042" duration="514000" />
       <workItem from="1684836243182" duration="21910000" />
+      <workItem from="1684913436048" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1684679868903</created>
